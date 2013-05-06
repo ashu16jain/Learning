@@ -1,5 +1,9 @@
+# Ignore eclispe files
 target/
 .settings/
 *.project
 *.classpath
 *.bak
+
+#Ignore compass filess
+.sass-cache/*
